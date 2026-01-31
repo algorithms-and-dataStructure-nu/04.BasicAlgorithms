@@ -5,3 +5,7 @@
     - 再帰的ユークリッドの互除法: Recursive Euclidean Algorithm
 - 素数: Prime Numbers
 - エラトステネスの篩: Sieve of Eratosthenes
+
+## ファイル
+- [04.BasicAlgorithms.ipynb](04.BasicAlgorithms.ipynb)
+- [04.Exercise.ipynb](04.Exercise.ipynb)
