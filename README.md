@@ -8,4 +8,5 @@
 
 ## ファイル
 - [04.BasicAlgorithms.ipynb](04.BasicAlgorithms.ipynb)
+- [04.Quiz.ipynb](04.Quiz.ipynb)
 - [04.Exercise.ipynb](04.Exercise.ipynb)
